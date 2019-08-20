@@ -1,8 +1,8 @@
 {
   "name": "quora-feed-parser",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Package that pase your first feed article",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "ts-node __test__/index.ts",
     "prepublish": "npm i typescript --no-save && tsc",
