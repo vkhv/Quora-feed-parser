@@ -8,5 +8,9 @@
     },
     "exclude": [
         "node_modules"
-    ]
+    ],
+    "include": [
+        "index.js",
+        "node_modules/@types/puppeteer/index.d.ts"
+  ]
 }
