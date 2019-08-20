@@ -1,6 +1,6 @@
 {
   "name": "quora-feed-parser",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "description": "Package that pase your first feed article",
   "main": "index.js",
   "scripts": {
