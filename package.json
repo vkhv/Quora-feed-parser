@@ -23,7 +23,7 @@
   "homepage": "https://github.com/vkhv/quora-feed-parser#readme",
   "dependencies": {
     "puppeteer": "^1.19.0",
-    "puppeteer-core": "^1.19.0",
+    "puppeteer-core": "^1.19.0"
   },
   "devDependencies": {
     "@types/puppeteer": "^1.19.0",
