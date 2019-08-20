@@ -6,7 +6,7 @@ Package that parse your first article from feed at [quora.com](https://www.quora
 npm i quora-feed-parser
 ```
 
-## Usage
+## Usage example
 
 ```ts
 import QFP from 'quora-feed-parser';
