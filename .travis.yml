@@ -8,5 +8,6 @@ branches:
 
 deploy:
   provider: npm
+  before_deploy: npm prepublish
   email: "vladkhvo@gmail.com"
   api_key: $NPM_AUTH_TOKEN
