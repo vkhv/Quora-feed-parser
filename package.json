@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "prepublish": "npm i typescript --no-save && tsc",
-    "types": "index.d.ts"
+    "types": "dist/index.d.ts"
   },
   "repository": {
     "type": "git",
