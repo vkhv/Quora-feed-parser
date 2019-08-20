@@ -4,7 +4,9 @@
   "description": "Package that pase your first feed article",
   "main": "index.ts",
   "scripts": {
-    "test": "ts-node __test__/index.ts"
+    "test": "ts-node __test__/index.ts",
+    "prepublish": "npm i typescript --no-save && tsc",
+    "types": "index.d.ts"
   },
   "repository": {
     "type": "git",
