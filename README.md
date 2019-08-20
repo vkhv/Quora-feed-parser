@@ -4,6 +4,10 @@ Package that pase your first feed article at quora.com
 
 ## Usage
 
+```sh
+npm i quora-feed-parser
+```
+
 ```ts
 import QFP from 'quora-feed-parser';
 
