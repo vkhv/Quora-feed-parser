@@ -1,12 +1,12 @@
 # Quora feed parser
 Package that pase your first feed article at quora.com
 
-
-## Usage
-
+# Install
 ```sh
 npm i quora-feed-parser
 ```
+
+## Usage
 
 ```ts
 import QFP from 'quora-feed-parser';
