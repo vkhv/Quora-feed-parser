@@ -1,4 +1,4 @@
-# quora-feed-parser
+# Quora feed parser
 Package that pase your first feed article at quora.com
 
 
