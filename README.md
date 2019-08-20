@@ -1,5 +1,5 @@
 # Quora feed parser
-Package that pase your first feed article at quora.com
+Package that parse your first feed article at quora.com
 
 # Install
 ```sh
