@@ -1,5 +1,5 @@
 # Quora feed parser   [![Build Status](https://travis-ci.com/vkhv/Quora-feed-parser.svg?branch=master)](https://travis-ci.com/vkhv/Quora-feed-parser)
-Package that parse your first article from feed at quora.com
+Package that parse your first article from feed at [quora.com](https://www.quora.com).
 
 # Install
 ```sh
